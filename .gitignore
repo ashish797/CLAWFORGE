@@ -1,6 +1,6 @@
-openclaw-fork/
-claude-code-study/
+node_modules/
 .DS_Store
 *.log
 .gstack/
-node_modules/
+dist/
+*.bun-build
